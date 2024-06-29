@@ -1,0 +1,14 @@
+/**/obj/
+/globalpackages/
+/packages/
+/.vs/
+/.idea/
+*.user
+*.vspscc
+*.vssscc
+*.jfm
+*.dbmdl
+*/**/bin/
+*/**/obj/
+*/**/pkg/
+*.nupkg
